@@ -1,4 +1,4 @@
-# TurboQuize
+# TurboQuize-Policy
 theme: minima
 Terms&amp;Conditions - Privet Policy for quize game app
 
