@@ -4,7 +4,7 @@ Terms&amp;Conditions - Privet Policy for quize game app
 
 Privacy Policy for TurboQuiz App
 Introduction
-This Privacy Policy describes the types of information collected from users of our Mobile Quiz App, how we use that information, and the steps we take to protect it. By using the TurboQuiz App, you consent to the practices described in this Privacy Policy.
+This Privacy Policy describes the types of information collected from users of our TurboQuiz App, how we use that information, and the steps we take to protect it. By using the TurboQuiz App, you consent to the practices described in this Privacy Policy.
 
 Types of Information Collected
 We may collect the following types of information from users of our TurboQuiz App:
