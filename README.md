@@ -1,4 +1,4 @@
-# TurboQuize-Policy
+# TurboQuize App Policy
 
 ### Privacy Policy 
 
@@ -47,11 +47,11 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 **Introduction**
 
-These Terms and Conditions ("Terms") govern your use of our Mobile Quiz App ("App"). By using the App, you agree to these Terms.
+These Terms and Conditions ("Terms") govern your use of our TurboQuiz App ("App"). By using the App, you agree to these Terms.
 
 **Ownership and License**
 
-The App is owned and operated by Vernio Pawel Wernio. The App and its entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio) are owned by Vernio Pawel Wernio, its licensors, or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+The App is owned and operated by Vernio Pawel Wernio. The App and its entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio) are owned by Vernio Pawel Wernio, its licensors, or other providers of such material and are protected by Polish and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
 Vernio Pawel Wernio grants you a limited, revocable, non-exclusive, non-transferable license to use the App for your personal use in accordance with these Terms.
 
 **User Conduct**
@@ -90,7 +90,12 @@ These Terms and your use of the App shall be governed by and construed in accord
 
 **Entire Agreement**
 
-These Terms, together with the Privacy Policy, constitute the entire agreement between you and Vernio Pawel Wernio regarding the TurboQuiz App.
+These Terms, together with the Privacy Policy, constitute the entire agreement between you and Vernio Pawel Wernio regarding the App.
 If you have any questions or concerns about these Terms, please contact us at 3ernonon@gmail.com.
+
+
+
+
+
 
 theme: minima | Terms&amp;Conditions - Privet Policy for quize game app
