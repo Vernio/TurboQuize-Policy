@@ -1,5 +1,3 @@
-# TurboQuize App Policy
-
 ### Privacy Policy 
 
 **Introduction**
