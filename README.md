@@ -9,9 +9,10 @@ This Privacy Policy describes the types of information collected from users of o
 Types of Information Collected
 
 We may collect the following types of information from users of our TurboQuiz App:
-Personal information: We may collect personal information such as your name, email address, and phone number when you register for an account on our app.
-Quiz data: We may collect information about your quiz performance, including the quizzes you have taken, your scores, and the time it took you to complete the quiz.
-Device information: We may collect device information such as your device type, operating system, and browser type when you use our app.
+
+- Personal information: We may collect personal information such as your name, email address, and phone number when you register for an account on our app.
+- Quiz data: We may collect information about your quiz performance, including the quizzes you have taken, your scores, and the time it took you to complete the quiz.
+- Device information: We may collect device information such as your device type, operating system, and browser type when you use our app.
 
 How We Use Your Information
 
