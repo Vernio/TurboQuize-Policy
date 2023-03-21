@@ -1,4 +1,4 @@
-# TurboQuize.github.io
+# TurboQuize
 theme: minima
 Terms&amp;Conditions - Privet Policy for quize game app
 
