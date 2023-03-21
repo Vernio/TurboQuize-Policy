@@ -1,5 +1,5 @@
 # TurboQuize-Policy
-theme: minima
+
 Terms&amp;Conditions - Privet Policy for quize game app
 
 Privacy Policy for TurboQuiz App
@@ -96,4 +96,4 @@ Entire Agreement
 These Terms, together with the Privacy Policy, constitute the entire agreement between you and Vernio Pawel Wernio regarding the App.
 If you have any questions or concerns about these Terms, please contact us at 3ernonon@gmail.com.
 
-
+theme: minima
